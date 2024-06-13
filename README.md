@@ -39,8 +39,8 @@ Develop an interactive and visually appealing Quiz Web App using React. The app 
 
 #### 1. Quiz Component:
 
-Manages quiz flow, fetching questions, and handling user responses.
-Uses state to track current question, timer, and user answers.
+- Manages quiz flow, fetching questions, and handling user responses.
+- Uses state to track current question, timer, and user answers.
 
 #### 2. Question Component:
 
@@ -57,3 +57,19 @@ Uses state to track current question, timer, and user answers.
 - Displays performance summary after quiz completion.
 - Breaks down results into correct, incorrect, and skipped percentages.
 - Lists each question for review.
+
+### Intsallation Steps:
+
+This command will install all the necessary dependencies.
+
+```
+npm install
+```
+
+This command will start the devlopement server.
+
+```
+npm run dev
+```
+
+### Output:
