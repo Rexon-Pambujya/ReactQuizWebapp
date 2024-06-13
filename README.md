@@ -88,6 +88,6 @@ Clicking on right option will turn the option green.
 
 Summary Page which comes after end of questions.
 
-![Start of web app](https://github.com/Rexon-Pambujya/ReactQuizWebapp/blob/main/images/Image3.png)
+![Start of web app](https://github.com/Rexon-Pambujya/ReactQuizWebapp/blob/main/images/Image4.png)
 
 Thank you for going through my project.
